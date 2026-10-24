@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_item_user.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_dialog_client.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/dialog_client.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/drawable_bg_search_input.xml.flat",
+        "source": "com.diofafarma.app-main-5:/drawable/bg_search_input.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.diofafarma.app-main-5:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_activity_login.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_fragment_clients.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/fragment_clients.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_item_client.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/item_client.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_fragment_reports.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/fragment_reports.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_fragment_users.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/fragment_users.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_item_sale.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/item_sale.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_item_product.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_dialog_user.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/dialog_user.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_fragment_sales.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/fragment_sales.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_activity_main.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/xml_network_security_config.xml.flat",
+        "source": "com.diofafarma.app-main-5:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_dialog_new_sale.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/dialog_new_sale.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_dialog_sale_detail.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/dialog_sale_detail.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_fragment_products.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/fragment_products.xml"
+    },
+    {
+        "merged": "com.diofafarma.app-debug-3:/layout_dialog_product.xml.flat",
+        "source": "com.diofafarma.app-main-5:/layout/dialog_product.xml"
+    }
+]

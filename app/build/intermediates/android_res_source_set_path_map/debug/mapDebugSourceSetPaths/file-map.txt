@@ -1,0 +1,8 @@
+com.diofafarma.app-pngs-0 C:\DiofaFarma_Pharmacy\DiofaFarma_ProjectFinal\DiofaFarma App\app\build\generated\res\pngs\debug
+com.diofafarma.app-updated_navigation_xml-1 C:\DiofaFarma_Pharmacy\DiofaFarma_ProjectFinal\DiofaFarma App\app\build\generated\updated_navigation_xml\debug
+com.diofafarma.app-packageDebugResources-2 C:\DiofaFarma_Pharmacy\DiofaFarma_ProjectFinal\DiofaFarma App\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.diofafarma.app-packageDebugResources-3 C:\DiofaFarma_Pharmacy\DiofaFarma_ProjectFinal\DiofaFarma App\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.diofafarma.app-debug-4 C:\DiofaFarma_Pharmacy\DiofaFarma_ProjectFinal\DiofaFarma App\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.diofafarma.app-debug-5 C:\DiofaFarma_Pharmacy\DiofaFarma_ProjectFinal\DiofaFarma App\app\src\debug\res
+com.diofafarma.app-main-6 C:\DiofaFarma_Pharmacy\DiofaFarma_ProjectFinal\DiofaFarma App\app\src\main\res
+gradleHome-0 C:\Users\DEVELOPER-05\.gradle
